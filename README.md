@@ -19,3 +19,5 @@ python --version
 # Install all you need for Machine Learning course
 pip install jupyter numpy pandas matplotlib sklearn statsmodels
 ```
+
+Alternatively you could install python using Homebrew `brew install python3` and install all libraries `pip3 install jupyter numpy pandas matplotlib sklearn statsmodels`. 
