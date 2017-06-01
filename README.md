@@ -21,3 +21,16 @@ pip install jupyter numpy pandas matplotlib sklearn statsmodels
 ```
 
 Alternatively you could install python using Homebrew `brew install python3` and install all libraries `pip3 install jupyter numpy pandas matplotlib sklearn statsmodels`. 
+
+## Run examples
+
+Get source code and run `Jupyter Notebook`
+
+```bash
+# Clone repo to get a working copy
+git clone git@github.com:satyrius/machine-learning-az.git
+# Change directory
+cd machine-learning-az
+# Run Notebook
+jupyter-notebook
+```
